@@ -3,7 +3,7 @@
 /**
  * _isalpha - Return 1 if c is a letter. lowercase or uppercase
  *
- *The int to print
+ * The int to print
  * Return: Always 0.
  */
 
